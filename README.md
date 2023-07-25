@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 # 🧑‍💻 My Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibshafique&repo=ansible-post-install&theme=radical)](https://github.com/ibshafique/ansible-post-install)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibshafique&repo=docker-ansible-lab&theme=radical)](https://github.com/ibshafique/docker-ansible-lab)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ibshafique&repo=ansible-post-install&theme=radical)](https://github.com/ibshafique/ansible-post-install)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ibshafique&repo=docker-ansible-lab&theme=radical)](https://github.com/ibshafique/docker-ansible-lab)
 
 
 ## ⚙️ Technologies & Tools
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 # 📊 My Stats
 
-[![ibshafique's github stats](https://github-readme-stats.vercel.app/api?username=ibshafique&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/ibshafque)
+[![ibshafique's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ibshafique&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/ibshafque)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibshafique&theme=dark&count_private=true&theme=radical)](https://github.com/ibshafque)
 
