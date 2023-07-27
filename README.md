@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Distributing Your Application Traffic: The AWSome Way!](https://dev.to/ibshafique/distributing-your-application-traffic-the-awsome-way-38i7)
+- [From S3 to Snow Family: A Beginner&#39;s Guide to Navigating the Array of AWS Storage Offerings](https://dev.to/ibshafique/from-s3-to-snow-family-a-beginners-guide-to-navigating-the-array-of-aws-storage-offerings-1mpb)
+- [Scaling to New Heights: Exploring AWS Auto Scaling&#39;s Potential](https://dev.to/ibshafique/scaling-to-new-heights-exploring-aws-auto-scalings-potential-3fc5)
+- [Secure and Seamless: Mastering GitHub Authentication with SSH Keys](https://medium.com/@ibshafique/secure-and-seamless-mastering-github-authentication-with-ssh-keys-f0441d6bfcee?source=rss-a7dd0dd25d4b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
