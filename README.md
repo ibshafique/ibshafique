@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">, I'm Ishraque Shafique</h1>
 <h3 align="center">I am working as a System Administrator in Cloud Operations team at Therap (BD) Ltd.</h3>
 
-<img align="right" alt="Coder" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif">
+<img align="right" alt="Coder" width="500" src="https://github.com/ibshafique/ibshafique/blob/main/assets/skatter-programmer.gif">
 
 - 🌱 I’m currently learning **AWS, Terraform**
 
