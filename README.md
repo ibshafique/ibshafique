@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 # 📖 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Cloud Security: Understanding AWS&#39;s Shared Responsibility Framework](https://dev.to/ibshafique/navigating-cloud-security-understanding-awss-shared-responsibility-framework-af0)
 - [Streamlining Infrastructure Deployment: How to Run Terraform with Docker](https://dev.to/ibshafique/streamlining-infrastructure-deployment-how-to-run-terraform-with-docker-2pih)
 - [Cloud on Your Terms: Running AWS CLI as a Docker Container](https://dev.to/ibshafique/cloud-on-your-terms-running-aws-cli-as-a-docker-container-1jam)
 - [Distributing Your Application Traffic: The AWSome Way!](https://dev.to/ibshafique/distributing-your-application-traffic-the-awsome-way-38i7)
@@ -43,7 +44,6 @@ Here are some ideas to get you started:
 - [Exploring Linux Network Namespaces: Creating and Communicating with Isolated Network Environments](https://medium.com/@ibshafique/exploring-linux-network-namespaces-creating-and-communicating-with-isolated-network-environments-b6b68a69d5ee?source=rss-a7dd0dd25d4b------2)
 - [All About Traceroute](https://medium.com/@ibshafique/all-about-traceroute-4d81707d0d7c?source=rss-a7dd0dd25d4b------2)
 - [Hashing, Encryption, Encoding, Obfuscation?](https://medium.com/@ibshafique/hashing-encryption-encoding-obfuscation-7271e994cb5e?source=rss-a7dd0dd25d4b------2)
-- [The Linux Boot Process](https://medium.com/@ibshafique/the-linux-boot-process-180fb07af452?source=rss-a7dd0dd25d4b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
