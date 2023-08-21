@@ -23,8 +23,12 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/ibshafique](https://github.com/ibshafique)
 
-- 📝 I regularly write articles on [https://dev.to/ibshafique](https://dev.to/ibshafique)
-
+- 📝 I regularly write articles on:
+  
+    [https://dev.to/ibshafique](https://dev.to/ibshafique)
+  
+    [https://medium.com/@ibshafique](https://medium.com/@ibshafique)
+  
 - 📫 How to reach me **ibshafique@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ibshafique/](https://www.linkedin.com/in/ibshafique/)
