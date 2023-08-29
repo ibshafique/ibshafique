@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 # 📖 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Maximizing Cloud Efficiency: Understanding AWS EC2 Instance Categories](https://dev.to/ibshafique/maximizing-cloud-efficiency-understanding-aws-ec2-instance-categories-1288)
 - [Architecting Excellence: A Comprehensive Guide to the AWS Well-Architected Framework](https://dev.to/ibshafique/architecting-excellence-a-comprehensive-guide-to-the-aws-well-architected-framework-3a28)
 - [Navigating Cloud Security: Understanding AWS&#39;s Shared Responsibility Framework](https://dev.to/ibshafique/navigating-cloud-security-understanding-awss-shared-responsibility-framework-af0)
 - [Streamlining Infrastructure Deployment: How to Run Terraform with Docker](https://dev.to/ibshafique/streamlining-infrastructure-deployment-how-to-run-terraform-with-docker-2pih)
