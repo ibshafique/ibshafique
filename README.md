@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coder" width="500" src="https://github.com/ibshafique/ibshafique/blob/main/assets/skatter-programmer.gif">
 
-- 🌱 I’m currently learning **AWS, Terraform**
+- 🌱 I’m currently learning **AWS, Terraform, Packer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ibshafique](https://github.com/ibshafique)
 
