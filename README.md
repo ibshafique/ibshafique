@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 # 📖 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cost-Effective AWS Strategies: S3 Access with VPC Endpoints](https://dev.to/ibshafique/cost-effective-aws-strategies-s3-access-with-vpc-endpoints-cbm)
 - [Choosing Your Data Destiny: AWS Database Types Unveiled](https://dev.to/ibshafique/choosing-your-data-destiny-aws-database-types-unveiled-3jbd)
 - [Maximizing Cloud Efficiency: Understanding AWS EC2 Instance Categories](https://dev.to/ibshafique/maximizing-cloud-efficiency-understanding-aws-ec2-instance-categories-1288)
 - [Architecting Excellence: A Comprehensive Guide to the AWS Well-Architected Framework](https://dev.to/ibshafique/architecting-excellence-a-comprehensive-guide-to-the-aws-well-architected-framework-3a28)
