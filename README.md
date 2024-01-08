@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 # 📖 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Passed The AWS Certified Solutions Architect Associate C03 Exam](https://dev.to/ibshafique/how-i-passed-the-aws-certified-solutions-architect-associate-c03-exam-4d1d)
 - [AWS Route 53: Navigating the Path to Efficient DNS Management](https://dev.to/ibshafique/aws-route-53-navigating-the-path-to-efficient-dns-management-12dj)
 - [Cost-Effective AWS Strategies: S3 Access with VPC Endpoints](https://dev.to/ibshafique/cost-effective-aws-strategies-s3-access-with-vpc-endpoints-cbm)
 - [Choosing Your Data Destiny: AWS Database Types Unveiled](https://dev.to/ibshafique/choosing-your-data-destiny-aws-database-types-unveiled-3jbd)
