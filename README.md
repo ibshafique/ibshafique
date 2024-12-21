@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **AWS, Terragrunt, EKS, k3s and GitHub Actions**
 
-- I am also interested in AI/ML and MLOps!
+- I am also interested in AI/ML and MLOps! Learning about machine learning from YT videos and ChatGPT!!
 
 - 👨‍💻 All of my projects are available at [https://github.com/ibshafique](https://github.com/ibshafique)
 
