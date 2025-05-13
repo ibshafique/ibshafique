@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 - I am also interested in AI/ML and MLOps! Learning about machine learning from YT videos and ChatGPT!!
 
+- Besides my daily day job, I am also an Amateur Radio Operator callsign: S21BP.
+
 - 👨‍💻 All of my projects are available at [https://github.com/ibshafique](https://github.com/ibshafique)
 
 - 📝 I regularly write articles on:
