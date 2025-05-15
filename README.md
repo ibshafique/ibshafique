@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **AWS, Terragrunt, EKS, S3, OpenSearch and GitHub Actions!!**
 
-- I am also interested in AI/ML and MLOps! Learning about machine learning from YT videos and ChatGPT!!
+- I am also interested in AI/ML and MLOps! Learning about machine learning from YT videos and ChatGPT!
 
 - Besides my daily day job, I am also an Amateur Radio Operator callsign: [S21BP](https://www.qrz.com/db/s21bp).
 
