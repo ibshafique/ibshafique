@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coder" width="500" src="https://github.com/ibshafique/ibshafique/blob/main/assets/skatter-programmer.gif">
 
-- 🌱 I’m currently learning **AWS, Terragrunt, EKS, S3 and GitHub Actions!!**
+- 🌱 I’m currently learning **AWS, Terragrunt, k8s and GitHub Actions!!**
 
 - I am also interested in AI/ML and MLOps! Learning about machine learning from YT videos and ChatGPT.
 
