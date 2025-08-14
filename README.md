@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">I am working as a Linux Cloud Engineer at IdeaScale.</h3>
 
 
+
 <img align="right" alt="Coder" width="500" src="https://github.com/ibshafique/ibshafique/blob/main/assets/skatter-programmer.gif">
 
 - 🌱 I’m currently learning **AWS, Terragrunt, k8s and GitHub Actions!!**
