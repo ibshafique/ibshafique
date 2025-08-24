@@ -1,4 +1,4 @@
-name: Metrics
+name: update_metrics
 on:
   schedule: [{cron: "0 0 * * *"}] #This cron will run the workflow every day 12:00AM UTC
   # Lines below let you run workflow manually and on each commit (optional)
