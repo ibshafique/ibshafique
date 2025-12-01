@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 # 📖 Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Practical Guide to Deploying Scalable Serverless Apps on AWS](https://dev.to/ibshafique/a-practical-guide-to-deploying-scalable-serverless-apps-on-aws-2b4p)
 - [Deploying Containerized Application on AWS LightSail with OpenRouter Integration](https://dev.to/ibshafique/deploying-containerized-application-on-aws-lightsail-with-openrouter-integration-103b)
 - [How I Passed The AWS Certified Solutions Architect Associate C03 Exam](https://dev.to/ibshafique/how-i-passed-the-aws-certified-solutions-architect-associate-c03-exam-4d1d)
 - [AWS Route 53: Navigating the Path to Efficient DNS Management](https://dev.to/ibshafique/aws-route-53-navigating-the-path-to-efficient-dns-management-12dj)
@@ -53,7 +54,6 @@ Here are some ideas to get you started:
 - [Streamlining Infrastructure Deployment: How to Run Terraform with Docker](https://dev.to/ibshafique/streamlining-infrastructure-deployment-how-to-run-terraform-with-docker-2pih)
 - [Cloud on Your Terms: Running AWS CLI as a Docker Container](https://dev.to/ibshafique/cloud-on-your-terms-running-aws-cli-as-a-docker-container-1jam)
 - [Distributing Your Application Traffic: The AWSome Way!](https://dev.to/ibshafique/distributing-your-application-traffic-the-awsome-way-38i7)
-- [From S3 to Snow Family: A Beginner&#39;s Guide to Navigating the Array of AWS Storage Offerings](https://dev.to/ibshafique/from-s3-to-snow-family-a-beginners-guide-to-navigating-the-array-of-aws-storage-offerings-1mpb)
 - [Secure and Seamless: Mastering GitHub Authentication with SSH Keys](https://medium.com/@ibshafique/secure-and-seamless-mastering-github-authentication-with-ssh-keys-f0441d6bfcee?source=rss-a7dd0dd25d4b------2)
 - [Exploring Linux Network Namespaces: Creating and Communicating with Isolated Network Environments](https://medium.com/@ibshafique/exploring-linux-network-namespaces-creating-and-communicating-with-isolated-network-environments-b6b68a69d5ee?source=rss-a7dd0dd25d4b------2)
 - [All About Traceroute](https://medium.com/@ibshafique/all-about-traceroute-4d81707d0d7c?source=rss-a7dd0dd25d4b------2)
