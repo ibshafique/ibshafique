@@ -40,6 +40,11 @@ Here are some ideas to get you started:
 </br>
 </br>
 
+## &#x1f4c8; Some of My Open Source Contributions
+
+HeadLamp: [/kubernetes-sigs/headlamp/pull/5971](https://github.com/kubernetes-sigs/headlamp/pull/5971) <br>
+
+
 # 📖 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [A Practical Guide to Deploying Scalable Serverless Apps on AWS](https://dev.to/ibshafique/a-practical-guide-to-deploying-scalable-serverless-apps-on-aws-2b4p)
